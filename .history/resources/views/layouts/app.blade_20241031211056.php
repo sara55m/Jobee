@@ -163,7 +163,7 @@
             <div class="col-12">
               <p class="copyright"><small>
                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with Free-Template.co</i>
+              Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"> BY Free-Template.co</i>
               <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small></p>
             </div>
           </div>
